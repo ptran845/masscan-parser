@@ -1,7 +1,7 @@
 # masscan-parser
 Massscan Parser
 
-## Massscan Example:
+## Masscan Example:
 Save masscan XML result to result.xml and run the script.
 Usage example: 
 ```
